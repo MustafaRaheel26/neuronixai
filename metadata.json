@@ -1,0 +1,6 @@
+{
+  "name": "Neuronix AI",
+  "description": "Master Generative AI with Neuronix AI's comprehensive online course.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
